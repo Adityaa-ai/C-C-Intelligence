@@ -1,0 +1,53 @@
+{
+    "original_rows": 5437,
+    "negative_values": {
+        "co": 0,
+        "no2": 4,
+        "o3": 0,
+        "pm10": 1,
+        "pm25": 0,
+        "so2": 15
+    },
+    "outliers": {
+        "co": 40,
+        "no2": 113,
+        "o3": 125,
+        "pm10": 94,
+        "pm25": 220,
+        "so2": 326
+    },
+    "missing_values": {
+        "city": 0,
+        "station_name": 0,
+        "station_id": 0,
+        "co": 3038,
+        "date": 0,
+        "no2": 3195,
+        "o3": 3634,
+        "pm10": 2586,
+        "pm25": 2516,
+        "so2": 2564,
+        "sub_pm25": 2554,
+        "sub_pm10": 2618,
+        "sub_no2": 3209,
+        "sub_o3": 3642,
+        "sub_co": 3051,
+        "sub_so2": 2558,
+        "aqi": 1299,
+        "dominant_pollutant": 1299,
+        "source_date": 0,
+        "co_source": 3038,
+        "co_outlier_flag": 0,
+        "no2_source": 3191,
+        "no2_outlier_flag": 0,
+        "o3_source": 3634,
+        "o3_outlier_flag": 0,
+        "pm10_source": 2585,
+        "pm10_outlier_flag": 0,
+        "pm25_source": 2516,
+        "pm25_outlier_flag": 0,
+        "so2_source": 2549,
+        "so2_outlier_flag": 0
+    },
+    "duplicate_station_date_keys": 0
+}
